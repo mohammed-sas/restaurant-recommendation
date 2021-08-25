@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap");
+.App {
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+}
+
+:root {
+  --primary-color: #db2777;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+/* heading */
+.heading {
+  background-color: var(--primary-color);
+  color: white;
+  padding: 1rem 0;
+}
+
+/* list */
+.list-item {
+  border: 2px solid var(--primary-color);
+  border-radius: 0.5rem;
+  margin: 1rem 0.5rem;
+  text-align: left;
+}
+
+.list-heading {
+  font-weight: bolder;
+  text-align: center;
+}
+
+.mb {
+  margin-bottom: 0.5rem;
+}
+
+/* button */
+.btn-div {
+  margin: 1rem 0;
+}
+.btn-div > button {
+  background-color: var(--primary-color);
+  border: none;
+  font-size: large;
+  padding: 0.5rem 0.5rem;
+  margin: 0 1rem;
+  color: white;
+  border-radius: 0.5rem;
+  cursor: pointer;
+}
