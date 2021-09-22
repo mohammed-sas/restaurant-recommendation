@@ -15,6 +15,13 @@ const restaurantDB = {
       review: "They bake fresh burger buns and their garlicc bread is lovely",
       rating: "4.5/5",
       address: "Anna Nagar East,Chennai"
+    },
+    {
+      name: "Tuscana Pizzeria",
+      review:
+        "Their Pizza are wood fired one with thin Crest and veggies and cheese overloaded.  Pasta, starters, soup bowls, risotto had numerous varieties from vegan to non veg.",
+      rating: "4.2/5",
+      address: "KNK road,Nungambakkam,Chennai"
     }
   ],
   continental: [
@@ -30,6 +37,13 @@ const restaurantDB = {
       review: "The best place to have chicken lasagna and ravioli",
       rating: "4.2/5",
       address: "Nungambakkam,Chennai"
+    },
+    {
+      name: "Joker's Kitchen",
+      review:
+        "Their garlic bread is a must try in appetizers and the mocktails are also good.Best place to celebrate and have surprise because the lounge and every amenities is worth the price",
+      rating: "4.4/5",
+      address: "Alwarpet,Chennai"
     }
   ],
   chinese: [
@@ -46,6 +60,13 @@ const restaurantDB = {
         "They make the yummiest noodles and mouthwatering side dishes for the noodle",
       rating: "4.6/5",
       address: "Anna Nagar,Chennai"
+    },
+    {
+      name: "Va Pho",
+      review:
+        "Taiwanese 3 cup Chicken – A tender saucy meat with hints of crunchiness from the nuts and vermicelli. A must try appetizer",
+      rating: "4.5/5",
+      address: "Gopalapuram,Chennai"
     }
   ]
 };
